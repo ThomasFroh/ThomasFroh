@@ -1,1 +1,1 @@
-👋 Hi, I’m @ThomasFroh! I'm a senior in Software Engineering also going for a minor in Cyber Security Engineering at Iowa State.
+👋 Hi, I’m @ThomasFroh! I graduated from Iowa State with a degree in Software Engineering and a minor in Cyber Security Engineering at Iowa State.
